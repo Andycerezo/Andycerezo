@@ -12,6 +12,5 @@
 
 <h2>🤳Connect with me:</h2>
 
- LinkedIn" width="22px" src="["](https://www.linkedin.com/in/andy-garciacerezo) />][linkedin]
-
+ 
 [linkedin]: https://www.linkedin.com/in/andy-garciacerezo
