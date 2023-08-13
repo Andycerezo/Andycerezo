@@ -11,5 +11,5 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Andy | LinkedIn" width="22px" src=https://www.linkedin.com/in/andy-garciacerezo />][linkedin] 
+[ src=https://www.linkedin.com/in/andy-garciacerezo />][linkedin] 
 [linkedin]: https://www.linkedin.com/in/andy-garciacerezo
